@@ -1,0 +1,5 @@
+.awscredentials
+plan
+.terraform
+terraform.tfstate*
+source-key
