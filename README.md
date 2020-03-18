@@ -1,4 +1,3 @@
 # aws_terraform
-AWS Terraform Repository
 
-Created respository to hold collection of AWS Terraform Templates
+Using this terraform, you can vpc, subnet, route table, internet gateway, security group and ec2 instance
